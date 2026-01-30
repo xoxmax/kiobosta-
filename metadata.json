@@ -1,0 +1,8 @@
+{
+  "name": "MGCC - Miftahul Er Jelkhana Coaching Center",
+  "description": "An AI-powered coaching platform for SSC, HSC, and Admission students in Bangladesh, featuring live sessions, performance tracking, and Gemini-integrated AI assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
